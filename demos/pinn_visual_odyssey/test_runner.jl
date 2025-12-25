@@ -18,6 +18,9 @@ using Pkg
 # Activate the demo environment
 Pkg.activate(".")
 
+# Import required packages
+using Glob
+
 println("="^70)
 println("PINN Visual Odyssey - Demo Test Runner")
 println("="^70)

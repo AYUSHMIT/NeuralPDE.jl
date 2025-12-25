@@ -246,7 +246,7 @@ After completing demos:
 If you use these demos in your research or teaching:
 
 ```bibtex
-@misc{pinnvisualodessey2025,
+@misc{pinnvisualodyssey2025,
   title={PINN Visual Odyssey: Comprehensive Demonstrations of Physics-Informed Neural Networks},
   author={AYUSHMIT},
   year={2025},
