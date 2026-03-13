@@ -1,0 +1,27 @@
+# Output files
+*.png
+*.gif
+*.mp4
+*.html
+*.svg
+
+# Temporary files
+*.tmp
+*.log
+
+# Julia artifacts
+Manifest.toml
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+# Pluto notebook state
+.pluto_cache/
+
+# MacOS
+.DS_Store
+
+# Keep example outputs for README gallery
+!outputs/gallery/
+outputs/gallery/*.png
+outputs/gallery/*.gif
